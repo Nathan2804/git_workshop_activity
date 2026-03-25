@@ -7,10 +7,14 @@ Psuedo code starts below:
 -----
 
 // Instantiate high level and set clock frequency
-set CLOCK to 70 Hz
+
+set CLOCK to 50 Hz
+
 
 // Complete some polling task
 
-// TODO: Aaron to fix polling task, please delete this comment when fixed
+
+<< Polling task >> // Aaron completed polling task
+
 
 << Completed the feature >> // Ben to commit the changes
