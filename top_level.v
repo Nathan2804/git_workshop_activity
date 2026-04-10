@@ -1,6 +1,7 @@
 module top_level (
 	/* Add your inputs here */
 	
+	
 	// Clock
 	input CLOCK_50,
 	// Keys
@@ -10,6 +11,7 @@ module top_level (
 	// Switches
 	input [9:0] SW
 );
+	// change made
 
     nios_system u0 (
         .clk_clk       (CLOCK_50),       
